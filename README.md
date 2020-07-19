@@ -6,8 +6,8 @@
 	1. [Dependencies](#dependencies)
 	2. [Installing](#installing)
 3. [License](#license)
-4. [Acknowledgement](#acknowledgement)
-5. [Screenshots](#screenshots)
+4. [Publication](#publication)
+5. [Acknowledgement](#acknowledgement)
 
 <a name="descripton"></a>
 ## Description
@@ -39,6 +39,9 @@ git clone https://github.com/paonegri/udacity_ds2.git
 <a name="license"></a>
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<a name="publication"></a>
+## Publication
 
 <a name="acknowledgement"></a>
 ## Acknowledgements
