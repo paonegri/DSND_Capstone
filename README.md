@@ -1,4 +1,4 @@
-#Udacity Capstone Project: Sparkify
+Udacity Capstone Project: Sparkify
 
 ## Table of Contents
 1. [Description](#description)
