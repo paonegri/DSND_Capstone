@@ -1,2 +1,2 @@
-# DSND_Capstone
-Udacity: Spark Project: Sparkify
+# Udacity Capstone Project: Spark Project - Sparkify
+
