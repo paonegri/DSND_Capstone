@@ -14,7 +14,7 @@
 
 The Sparkify churn prediction project is part of Data Science Nanodegree Program by Udacity. The main objective of this project is to manipulate large and realistic datasets with Spark to select and engineer relevant features for predicting churn rates for a music app, Sparkify.
 
-The Project is divided in the following Sections:
+The Project is divided in the following sections:
 
 1. Exploratory Data Analysis (EDA)
 2. Feature Engineering
@@ -33,7 +33,7 @@ The Project is divided in the following Sections:
 ### Installing
 Clone this GIT repository:
 ```
-git clone https://github.com/paonegri/udacity_ds2.git
+git clone https://github.com/paonegri/DSND_Capstone.git
 ```
 
 <a name="license"></a>
