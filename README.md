@@ -42,8 +42,8 @@ git clone https://github.com/paonegri/DSND_Capstone.git
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <a name="blog"></a>
-## Blog
-For more details and results of the analysis: [Medium](https://medium.com/@shosan_71491/how-to-beat-churn-with-pyspark-c96212742a7)
+## Results
+The main findings of the analysis can be found at the post available here: [Medium](https://medium.com/@shosan_71491/how-to-beat-churn-with-pyspark-c96212742a7)
 
 <a name="acknowledgement"></a>
 ## Acknowledgements
