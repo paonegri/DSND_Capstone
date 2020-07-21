@@ -6,13 +6,13 @@
 	1. [Dependencies](#dependencies)
 	2. [Installing](#installing)
 3. [License](#license)
-4. [Publication](#publication)
+4. [Blog](#blog)
 5. [Acknowledgement](#acknowledgement)
 
 <a name="descripton"></a>
 ## Description
 
-The Sparkify churn prediction project is part of Data Science Nanodegree Program by Udacity. The main objective of this project is to manipulate large and realistic datasets with Spark to select and engineer relevant features for predicting churn rates for a music app, Sparkify.
+The Sparkify churn prediction project is part of Data Science Nanodegree Program by Udacity. The main objective of this project is to use Spark to manipulate a large and realistic datasets with the objective to select and engineer relevant features for predicting churn rates for a music app: Sparkify.
 
 The Project is divided in the following sections:
 
@@ -40,8 +40,8 @@ git clone https://github.com/paonegri/DSND_Capstone.git
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<a name="publication"></a>
-## Publication
+<a name="blog"></a>
+## Blog
 For more details and results of the analysis: [Medium](https://medium.com/@shosan_71491/how-to-beat-churn-with-pyspark-c96212742a7)
 
 <a name="acknowledgement"></a>
