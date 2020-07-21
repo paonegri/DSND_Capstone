@@ -5,8 +5,8 @@
 2. [Getting Started](#getting_started)
 	1. [Dependencies](#dependencies)
 	2. [Installing](#installing)
-3. [License](#license)
-4. [Results](#results)
+3. [Results](#results)
+4. [License](#license)
 5. [Acknowledgement](#acknowledgement)
 
 <a name="descripton"></a>
@@ -37,13 +37,13 @@ Clone this GIT repository:
 git clone https://github.com/paonegri/DSND_Capstone.git
 ```
 
-<a name="license"></a>
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 <a name="results"></a>
 ## Results
 The main findings of the analysis can be found at the post available here: [Medium](https://medium.com/@shosan_71491/how-to-beat-churn-with-pyspark-c96212742a7)
+
+<a name="license"></a>
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <a name="acknowledgement"></a>
 ## Acknowledgements
