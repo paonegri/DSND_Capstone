@@ -42,6 +42,7 @@ git clone https://github.com/paonegri/DSND_Capstone.git
 
 <a name="publication"></a>
 ## Publication
+For more details and results of the analysis: [Medium](https://medium.com/@shosan_71491/how-to-beat-churn-with-pyspark-c96212742a7)
 
 <a name="acknowledgement"></a>
 ## Acknowledgements
