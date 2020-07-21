@@ -12,7 +12,7 @@
 <a name="descripton"></a>
 ## Description
 
-The Sparkify churn prediction project is part of Data Science Nanodegree Program by Udacity. The main objective of this project is to use Spark to manipulate a large and realistic dataset with the objective to select and engineer relevant features for predicting churn rates for a music app: Sparkify.
+The Sparkify churn prediction project is part of Data Science Nanodegree Program by Udacity. The main objective of this project is to use Spark to manipulate a large and realistic dataset selecting and engineering relevant features for predicting churn rates for a fictitious music app: Sparkify.
 
 The Project is divided in the following sections:
 
